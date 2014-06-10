@@ -1,4 +1,4 @@
 revxine
 =======
 
-Toolkit to reverse vaccionlogy
+Toolkit to reverse vaccinology
