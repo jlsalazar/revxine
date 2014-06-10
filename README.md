@@ -1,4 +1,4 @@
-REVXINE
+revxine
 =======
 
-TOOLKIT TO REVERSE VACCINOLOGY
+Toolkit to reverse vaccionlogy
